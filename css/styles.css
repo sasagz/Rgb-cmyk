@@ -46,18 +46,18 @@ section {
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(84, 70, 130, 0.955);
 }
 
 section h2 {
     font-size: 1.8rem;
-    color: #d1d2d3;
+    color: rgba(84, 70, 130, 0.955);
     margin-bottom: 15px;
 }
 
 section h3 {
     font-size: 1.5rem;
-    color: #333;
+    color: rgba(84, 70, 130, 0.955);
     margin-top: 15px;
 }
 
