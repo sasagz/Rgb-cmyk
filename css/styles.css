@@ -1,3 +1,14 @@
+:root {
+    --cor-fundo: #f4f4f4;
+    --cor-texto: #333;
+    --cor-cabecalho-fundo: #333;
+    --cor-cabecalho-texto: #fff;
+    --cor-fundo-principal: #fff;
+    --cor-borda-secao: #333;
+    --cor-secao-fundo: #fafafa;
+    --cor-rodape-fundo: #222;
+    --cor-rodape-texto: #fff;
+}
 
 * {
     margin: 0;
